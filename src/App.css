@@ -100,3 +100,14 @@ tbody td:first-child {
   font-size: 1.2rem;
   margin-top: 20px;
 }
+
+a {
+  color: #007bff; /* Default blue */
+  text-decoration: none; /* No underline by default */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+  color: #0056b3; /* Darker blue */
+}
+

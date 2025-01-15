@@ -7,7 +7,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <h1>Speedrun Average Leaderboard</h1>
+                <h1>BeamNG.drive Speedrunning Leaderboards</h1>
             </header>
             <div className="container">
                 <AverageLeaderboard />

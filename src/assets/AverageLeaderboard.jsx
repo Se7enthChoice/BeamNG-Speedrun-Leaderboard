@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { leaderboardURLs } from './leaderboardUrls';
 import { fetchWithRateLimiting, fetchPlayerDetails } from './apiService';
 
-const AverageLeaderboard = () => {
+const AverageLeaderboard = ({ selectedLevelTypes }) => {
     const [leaderboard, setLeaderboard] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -10,7 +10,12 @@ const AverageLeaderboard = () => {
     useEffect(() => {
         const fetchLeaderboards = async () => {
             try {
-                const leaderboards = await fetchWithRateLimiting(leaderboardURLs, 125);
+                // Filter URLs based on selected LevelTypes
+                const filteredUrls = leaderboardURLs
+                    .filter(entry => selectedLevelTypes.includes(entry.levelType))
+                    .map(entry => entry.url);
+
+                const leaderboards = await fetchWithRateLimiting(filteredUrls, 0);
 
                 const runnerData = {};
                 const allRunners = new Set();
@@ -66,14 +71,14 @@ const AverageLeaderboard = () => {
         };
 
         fetchLeaderboards();
-    }, []);
+    }, [selectedLevelTypes]); // Refetch data whenever selectedLevelTypes change
 
     if (loading) return <div className="spinner"></div>;
     if (error) return <p>{error}</p>;
 
     return (
         <div>
-            <h1>Average Finish Leaderboard</h1>
+            <h2>Average Finish Leaderboard</h2>
             <table>
                 <thead>
                     <tr>

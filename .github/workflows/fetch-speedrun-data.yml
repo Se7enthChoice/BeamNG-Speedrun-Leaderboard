@@ -1,0 +1,32 @@
+name: Fetch Speedrun Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs weekly (every Sunday at midnight UTC)
+  workflow_dispatch: # Allow manual triggering of the workflow
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Fetch the Speedrun.com API data
+      - name: Fetch data from Speedrun.com
+        run: |
+          mkdir -p data
+          curl -s https://www.speedrun.com/api/v1/... > data/speedrun-data.json # Replace with your API endpoint
+
+      # Step 3: Commit and push the updated JSON file
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/speedrun-data.json
+          git commit -m "Update speedrun data (cron job)"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -18,7 +18,7 @@ jobs:
       - name: Fetch data from Speedrun.com
         run: |
           mkdir -p data
-          curl -X GET https://www.speedrun.com/api/v1/leaderboards/kdk5medm/level/ldygrnrd/wkpy8gjk?var-2lgzqdq8=21gxnnxq&var-9l77k57l=klrn00w1 > data/speedrun-data.json # Replace with your API endpoint
+          curl -X GET https://www.speedrun.com/api/v1/leaderboards/kdk5medm/level/ldygrnrd/wkpy8gjk?var-2lgzqdq8=21gxnnxq&var-9l77k57l=klrn00w1 > ../data/speedrun-data.json # Replace with your API endpoint
 
       # Step 3: Commit and push the updated JSON file
       - name: Commit and push changes

@@ -2,34 +2,68 @@ name: Fetch Speedrun Data
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Runs weekly (every Sunday at midnight UTC)
-  workflow_dispatch: # Allow manual triggering of the workflow
+    - cron: "0 0 * * 0" # Runs every Sunday at midnight
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
-  fetch-data:
+  fetch-and-store:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Check out the repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v4
 
-      - name: Install curl
-        run: sudo apt-get install curl
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
 
-      # Step 2: Fetch the Speedrun.com API data
-      - name: Fetch data from Speedrun.com
+      - name: Install Dependencies
+        run: npm install axios
+
+      - name: Fetch Speedrun Data with Exponential Backoff
         run: |
-          mkdir -p data
-          curl -X GET "https://www.speedrun.com/api/v1/leaderboards/kdk5medm/level/ldygrnrd/wkpy8gjk?var-2lgzqdq8=21gxnnxq&var-9l77k57l=klrn00w1" > data/speedrun-data.json # Replace with your API endpoint
+          node -e "
+          const fs = require('fs');
+          const axios = require('axios');
+          const leaderboardUrls = require('./src/leaderboardUrls.js'); // Import your URLs
 
-      # Step 3: Commit and push the updated JSON file
-      - name: Commit and push changes
+          // Exponential backoff logic
+          const fetchDataWithBackoff = async (url, retries = 5, delay = 1000) => {
+            for (let i = 0; i <= retries; i++) {
+              try {
+                const response = await axios.get(url);
+                return response.data;
+              } catch (error) {
+                if (i < retries && error.response?.status === 420) {
+                  console.log(\`Rate limit hit on \${url}. Retrying in \${delay}ms...\`);
+                  await new Promise(res => setTimeout(res, delay));
+                  delay *= 2; // Double the delay for exponential backoff
+                } else {
+                  console.error(\`Failed to fetch \${url}: \${error.message}\`);
+                  return { error: error.message }; // Return error if retries exhausted
+                }
+              }
+            }
+          };
+
+          const fetchAllData = async () => {
+            const results = {};
+            for (const { url } of leaderboardUrls) {
+              console.log(\`Fetching data from: \${url}\`);
+              const data = await fetchDataWithBackoff(url);
+              results[url] = data;
+            }
+            fs.writeFileSync('data/speedrunData.json', JSON.stringify(results, null, 2));
+            console.log('Data successfully written to data/speedrunData.json');
+          };
+
+          fetchAllData();
+          "
+
+      - name: Commit and Push Data
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/speedrun-data.json
-          git commit -m "Update speedrun data (cron job)"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/speedrunData.json
+          git commit -m "Update Speedrun Data [ci skip]" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

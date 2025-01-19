@@ -25,8 +25,11 @@ jobs:
           node -e "
           const fs = require('fs');
           const axios = require('axios');
-          const leaderboardUrls = require('./src/assets/leaderboardUrls.js'); // Import your URLs
-
+          (async () => {
+          const leaderboardUrls = (await import('./src/assets/leaderboardUrls.jss')).default;
+          console.log(leaderboardUrls);
+          })();
+          
           // Exponential backoff logic
           const fetchDataWithBackoff = async (url, retries = 5, delay = 1000) => {
             for (let i = 0; i <= retries; i++) {

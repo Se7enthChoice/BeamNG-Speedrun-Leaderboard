@@ -1,0 +1,51 @@
+.player-records {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #555; /* Change text color to grey */
+    width: 100%; /* Ensure the component scales with the page */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.player-records h1 {
+    color: #555; /* Change text color to grey */
+    text-align: center;
+    font-size: 2em; /* Add styling for the header */
+    text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff; /* Add white outline */
+}
+
+.player-records ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.player-records li {
+    background: #f9f9f9;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Center the text vertically */
+    text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff; /* Add white outline */
+}
+
+.player-records .player-name {
+    font-weight: bold;
+}
+
+.player-records .player-records-count {
+    color: #555;
+}
+
+/* Flexbox container for responsive layout */
+.leaderboards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.leaderboard {
+    flex: 1 1 45%; /* Adjust the width of each leaderboard */
+    margin: 10px;
+}

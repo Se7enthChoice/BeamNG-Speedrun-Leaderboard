@@ -7,8 +7,8 @@ const PlayerRecords = ({ filters }) => {
     useEffect(() => {
         const fetchPlayerRecords = async () => {
             try {
-                const leaderboardResponse = await fetch(`${process.env.PUBLIC_URL}/leaderboardData.json`);
-                const playerResponse = await fetch(`${process.env.PUBLIC_URL}/playerData.json`);
+                const leaderboardResponse = await fetch(`https://raw.githubusercontent.com/se7enthchoice/BeamNG-Speedrun-Leaderboard/v2/leaderboardData.json`);
+                const playerResponse = await fetch('https://raw.githubusercontent.com/se7enthchoice/BeamNG-Speedrun-Leaderboard/v2/playerData.json');
                 const leaderboardData = await leaderboardResponse.json();
                 const playerData = await playerResponse.json();
                 const records = {};

@@ -82,7 +82,7 @@ const fetchPlayerDetails = async (playerIds) => {
  * Main function to fetch all leaderboard and player data.
  */
 const fetchAllData = async () => {
-    //await fetchLeaderboardData();
+    await fetchLeaderboardData();
 
     console.log("Extracting player IDs...");
     const leaderboardData = JSON.parse(fs.readFileSync("./leaderboardData.json"));

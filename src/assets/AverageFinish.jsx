@@ -7,8 +7,8 @@ const AverageFinish = ({ filters }) => {
     useEffect(() => {
         const fetchAverageFinish = async () => {
             try {
-                const leaderboardResponse = await fetch('/leaderboardData.json');
-                const playerResponse = await fetch('/playerData.json');
+                const leaderboardResponse = await fetch(`${process.env.PUBLIC_URL}/leaderboardData.json`);
+                const playerResponse = await fetch(`${process.env.PUBLIC_URL}/playerData.json`);
                 const leaderboardData = await leaderboardResponse.json();
                 const playerData = await playerResponse.json();
                 const finishes = {};

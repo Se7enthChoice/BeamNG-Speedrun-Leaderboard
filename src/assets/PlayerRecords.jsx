@@ -33,6 +33,7 @@ const PlayerRecords = ({ filters }) => {
                 const playerRecordsWithNames = Object.keys(records).map(playerId => ({
                     id: playerId,
                     name: playerData[playerId]?.name || 'Unknown',
+                    profileUrl: playerData[playerId]?.profileUrl || '#',
                     records: records[playerId]
                 }));
 
@@ -54,7 +55,9 @@ const PlayerRecords = ({ filters }) => {
             <ul>
                 {playerRecords.map((player, index) => (
                     <li key={player.id}>
-                        <span className="player-name">{index + 1}. {player.name}</span>
+                        <span className="player-name">
+                            {index + 1}. <a href={player.profileUrl} target="_blank" rel="noopener noreferrer">{player.name}</a>
+                        </span>
                         <span className="player-records-count">{player.records} Records Held</span>
                     </li>
                 ))}

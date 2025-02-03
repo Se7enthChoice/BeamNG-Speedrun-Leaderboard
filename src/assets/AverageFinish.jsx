@@ -52,6 +52,7 @@ const AverageFinish = ({ filters }) => {
                 const averageFinishWithNames = Object.entries(finishes).map(([id, data]) => ({
                     id,
                     name: playerData[id]?.name || 'Unknown Player',
+                    profileUrl: playerData[id]?.profileUrl || '#',
                     averageFinish: (data.totalRank / data.count).toFixed(2),
                 }));
 
@@ -73,7 +74,9 @@ const AverageFinish = ({ filters }) => {
             <ul>
                 {averageFinish.map((player, index) => (
                     <li key={player.id}>
-                        <span className="player-name">{index + 1}. {player.name}</span>
+                        <span className="player-name">
+                            {index + 1}. <a href={player.profileUrl} target="_blank" rel="noopener noreferrer">{player.name}</a>
+                        </span>
                         <span className="player-average-finish">{player.averageFinish}</span>
                     </li>
                 ))}

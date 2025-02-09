@@ -30,8 +30,11 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git pull --rebase origin v2  # Pull latest changes before committing
+        git stash # Temporarily save uncommitted changes
+        git pull --rebase origin v2
+        git stash pop # Restore the changes after pulling
         git add .
         git diff --quiet && git diff --staged --quiet || (git commit -m 'Update JSON storage files' && git push)
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

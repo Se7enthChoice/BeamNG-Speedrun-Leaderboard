@@ -30,11 +30,14 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git stash # Temporarily save uncommitted changes
-        git pull --rebase origin v2
-        git stash pop # Restore the changes after pulling
-        git add .
+        
+        git stash # Save uncommitted changes
+        git pull --rebase --strategy=recursive -X ours origin v2 || git rebase --abort
+        git stash pop || echo "No stashed changes to apply"
+        
+        git add leaderboardData.json playerData.json
         git diff --quiet && git diff --staged --quiet || (git commit -m 'Update JSON storage files' && git push)
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 

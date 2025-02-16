@@ -1091,15 +1091,15 @@
         {
           "place": 1,
           "run": {
-            "id": "m7ewl69z",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/m7ewl69z",
+            "id": "yoqn4o5z",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/yoqn4o5z",
             "game": "kdk5medm",
             "level": "rdqgvvm9",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://youtu.be/2SKxyZQ6T_U"
+                  "uri": "https://youtu.be/SJSLdzVkwcI"
                 }
               ]
             },
@@ -1107,7 +1107,7 @@
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-02-09T02:06:45Z"
+              "verify-date": "2025-02-14T23:04:36Z"
             },
             "players": [
               {
@@ -1116,13 +1116,13 @@
                 "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
               }
             ],
-            "date": "2025-01-25",
-            "submitted": "2025-01-26T09:22:57Z",
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T16:35:43Z",
             "times": {
-              "primary": "PT1M1.112S",
-              "primary_t": 61.112,
-              "realtime": "PT1M1.112S",
-              "realtime_t": 61.112,
+              "primary": "PT49.733S",
+              "primary_t": 49.733,
+              "realtime": "PT49.733S",
+              "realtime_t": 49.733,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -8472,6 +8472,58 @@
         {
           "place": 2,
           "run": {
+            "id": "y9pvg0km",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/y9pvg0km",
+            "game": "kdk5medm",
+            "level": "xd1xery9",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://www.youtube.com/watch?v=zXXsM9sRPik"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-11T20:35:03Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j5p56oq8",
+                "uri": "https://www.speedrun.com/api/v1/users/j5p56oq8"
+              }
+            ],
+            "date": "2025-02-01",
+            "submitted": "2025-02-01T09:43:19Z",
+            "times": {
+              "primary": "PT4M42.076S",
+              "primary_t": 282.076,
+              "realtime": "PT4M42.076S",
+              "realtime_t": 282.076,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "ql64g4x8": "klr7rewq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
+          "run": {
             "id": "m3rxwj4m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m3rxwj4m",
             "game": "kdk5medm",
@@ -8522,7 +8574,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 4,
           "run": {
             "id": "z1o35l7m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z1o35l7m",
@@ -8574,7 +8626,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 5,
           "run": {
             "id": "yv94oq4z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yv94oq4z",
@@ -8626,7 +8678,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 6,
           "run": {
             "id": "zgwo5gvy",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zgwo5gvy",
@@ -8678,7 +8730,7 @@
           }
         },
         {
-          "place": 6,
+          "place": 7,
           "run": {
             "id": "zx71qxgy",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zx71qxgy",
@@ -8730,7 +8782,7 @@
           }
         },
         {
-          "place": 7,
+          "place": 8,
           "run": {
             "id": "ylkvrlnz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/ylkvrlnz",
@@ -8782,7 +8834,7 @@
           }
         },
         {
-          "place": 8,
+          "place": 9,
           "run": {
             "id": "yvlw374z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yvlw374z",
@@ -8834,7 +8886,7 @@
           }
         },
         {
-          "place": 9,
+          "place": 10,
           "run": {
             "id": "zp4xq0nz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zp4xq0nz",
@@ -8886,7 +8938,7 @@
           }
         },
         {
-          "place": 10,
+          "place": 11,
           "run": {
             "id": "ywp57q0z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/ywp57q0z",
@@ -8938,7 +8990,7 @@
           }
         },
         {
-          "place": 11,
+          "place": 12,
           "run": {
             "id": "yo2o4rjz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yo2o4rjz",
@@ -15817,6 +15869,58 @@
         {
           "place": 1,
           "run": {
+            "id": "z5lp3vny",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/z5lp3vny",
+            "game": "kdk5medm",
+            "level": "n934xvzd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/5tDUFMKcLuU"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-15T12:32:16Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-15",
+            "submitted": "2025-02-15T12:25:41Z",
+            "times": {
+              "primary": "PT14.720S",
+              "primary_t": 14.72,
+              "realtime": "PT14.720S",
+              "realtime_t": 14.72,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "9l732wzn": "mlnrpr6q",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
             "id": "m3w7666y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m3w7666y",
             "game": "kdk5medm",
@@ -15867,7 +15971,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 3,
           "run": {
             "id": "mr65x6dm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/mr65x6dm",
@@ -15919,7 +16023,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 4,
           "run": {
             "id": "zx2j74em",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zx2j74em",
@@ -15971,7 +16075,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 5,
           "run": {
             "id": "zp9w59rm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zp9w59rm",
@@ -16023,7 +16127,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 6,
           "run": {
             "id": "m333kk4m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m333kk4m",
@@ -16075,7 +16179,7 @@
           }
         },
         {
-          "place": 6,
+          "place": 7,
           "run": {
             "id": "zgwg10ey",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zgwg10ey",
@@ -16127,7 +16231,7 @@
           }
         },
         {
-          "place": 7,
+          "place": 8,
           "run": {
             "id": "y82jrgny",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y82jrgny",
@@ -16179,7 +16283,7 @@
           }
         },
         {
-          "place": 8,
+          "place": 9,
           "run": {
             "id": "yd595wvm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yd595wvm",
@@ -17424,38 +17528,38 @@
         {
           "place": 1,
           "run": {
-            "id": "ydvw6gjy",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/ydvw6gjy",
+            "id": "zpkwq08y",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zpkwq08y",
             "game": "kdk5medm",
             "level": "n934xvzd",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://www.youtube.com/watch?v=wIqaYVkHZOQ"
+                  "uri": "https://youtu.be/ozLypT4bkHg"
                 }
               ]
             },
-            "comment": "I hate JATO -_-",
+            "comment": null,
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-02-09T01:04:43Z"
+              "verify-date": "2025-02-14T13:42:12Z"
             },
             "players": [
               {
                 "rel": "user",
-                "id": "o864o50j",
-                "uri": "https://www.speedrun.com/api/v1/users/o864o50j"
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
               }
             ],
-            "date": "2025-01-22",
-            "submitted": "2025-01-22T21:29:53Z",
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T13:32:05Z",
             "times": {
-              "primary": "PT41.806S",
-              "primary_t": 41.806,
-              "realtime": "PT41.806S",
-              "realtime_t": 41.806,
+              "primary": "PT40.698S",
+              "primary_t": 40.698,
+              "realtime": "PT40.698S",
+              "realtime_t": 40.698,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -17476,15 +17580,15 @@
         {
           "place": 2,
           "run": {
-            "id": "mr0n6ggm",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/mr0n6ggm",
+            "id": "zxj39r8y",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zxj39r8y",
             "game": "kdk5medm",
             "level": "n934xvzd",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://youtu.be/ZcOG0EaRmlw"
+                  "uri": "https://www.youtube.com/watch?v=yq8Fyq0-UTA"
                 }
               ]
             },
@@ -17492,22 +17596,22 @@
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-02-08T23:59:36Z"
+              "verify-date": "2025-02-14T12:33:09Z"
             },
             "players": [
               {
                 "rel": "user",
-                "id": "jn393w2x",
-                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+                "id": "o864o50j",
+                "uri": "https://www.speedrun.com/api/v1/users/o864o50j"
               }
             ],
-            "date": "2025-01-18",
-            "submitted": "2025-01-18T18:52:42Z",
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T12:12:08Z",
             "times": {
-              "primary": "PT42.800S",
-              "primary_t": 42.8,
-              "realtime": "PT42.800S",
-              "realtime_t": 42.8,
+              "primary": "PT41.536S",
+              "primary_t": 41.536,
+              "realtime": "PT41.536S",
+              "realtime_t": 41.536,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -22321,15 +22425,15 @@
         {
           "place": 1,
           "run": {
-            "id": "yvn1x44m",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/yvn1x44m",
+            "id": "mr0ogo8m",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/mr0ogo8m",
             "game": "kdk5medm",
             "level": "rdnzm67d",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://youtu.be/I-tg0aFIF3E"
+                  "uri": "https://youtu.be/tpqPpuOZ5c0"
                 }
               ]
             },
@@ -22337,7 +22441,7 @@
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-02-08T21:01:33Z"
+              "verify-date": "2025-02-13T21:32:19Z"
             },
             "players": [
               {
@@ -22346,13 +22450,13 @@
                 "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
               }
             ],
-            "date": "2025-01-13",
-            "submitted": "2025-01-13T18:50:22Z",
+            "date": "2025-02-13",
+            "submitted": "2025-02-13T19:32:20Z",
             "times": {
-              "primary": "PT40.580S",
-              "primary_t": 40.58,
-              "realtime": "PT40.580S",
-              "realtime_t": 40.58,
+              "primary": "PT40.151S",
+              "primary_t": 40.151,
+              "realtime": "PT40.151S",
+              "realtime_t": 40.151,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -22372,6 +22476,58 @@
         },
         {
           "place": 2,
+          "run": {
+            "id": "y2nj356y",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/y2nj356y",
+            "game": "kdk5medm",
+            "level": "rdnzm67d",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/25ChYVYd2xg"
+                }
+              ]
+            },
+            "comment": "This one was not so fun :(",
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-11T20:29:56Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "8goer67x",
+                "uri": "https://www.speedrun.com/api/v1/users/8goer67x"
+              }
+            ],
+            "date": "2025-02-08",
+            "submitted": "2025-02-08T17:40:17Z",
+            "times": {
+              "primary": "PT40.186S",
+              "primary_t": 40.186,
+              "realtime": "PT40.186S",
+              "realtime_t": 40.186,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "789kp9ql": "rqvmvk5q",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
           "run": {
             "id": "m7ool85y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m7ool85y",
@@ -22423,7 +22579,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 4,
           "run": {
             "id": "y2pg7x9z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y2pg7x9z",
@@ -22475,7 +22631,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 5,
           "run": {
             "id": "zq7ev59m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zq7ev59m",
@@ -22527,7 +22683,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 6,
           "run": {
             "id": "y6dnwwpm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y6dnwwpm",
@@ -22579,7 +22735,7 @@
           }
         },
         {
-          "place": 6,
+          "place": 7,
           "run": {
             "id": "y8wqdpny",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y8wqdpny",
@@ -22631,7 +22787,7 @@
           }
         },
         {
-          "place": 7,
+          "place": 8,
           "run": {
             "id": "ywq4693y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/ywq4693y",
@@ -22683,7 +22839,7 @@
           }
         },
         {
-          "place": 8,
+          "place": 9,
           "run": {
             "id": "yv1e656y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yv1e656y",
@@ -22735,7 +22891,7 @@
           }
         },
         {
-          "place": 9,
+          "place": 10,
           "run": {
             "id": "y8v0qvxz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y8v0qvxz",
@@ -22787,7 +22943,7 @@
           }
         },
         {
-          "place": 10,
+          "place": 11,
           "run": {
             "id": "me9jop8z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me9jop8z",
@@ -22839,7 +22995,7 @@
           }
         },
         {
-          "place": 11,
+          "place": 12,
           "run": {
             "id": "y22rvd9y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y22rvd9y",
@@ -22891,7 +23047,7 @@
           }
         },
         {
-          "place": 12,
+          "place": 13,
           "run": {
             "id": "y6nq0dpz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y6nq0dpz",
@@ -22943,7 +23099,7 @@
           }
         },
         {
-          "place": 13,
+          "place": 14,
           "run": {
             "id": "yw02519m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yw02519m",
@@ -22995,7 +23151,7 @@
           }
         },
         {
-          "place": 14,
+          "place": 15,
           "run": {
             "id": "z1q5q6gy",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z1q5q6gy",
@@ -23047,7 +23203,7 @@
           }
         },
         {
-          "place": 15,
+          "place": 16,
           "run": {
             "id": "yj3vnddz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yj3vnddz",
@@ -23099,7 +23255,7 @@
           }
         },
         {
-          "place": 16,
+          "place": 17,
           "run": {
             "id": "z014nvey",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z014nvey",
@@ -23151,7 +23307,7 @@
           }
         },
         {
-          "place": 17,
+          "place": 18,
           "run": {
             "id": "z1j4gngz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z1j4gngz",
@@ -23203,7 +23359,7 @@
           }
         },
         {
-          "place": 18,
+          "place": 19,
           "run": {
             "id": "m314d0dz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m314d0dz",
@@ -23255,7 +23411,7 @@
           }
         },
         {
-          "place": 19,
+          "place": 20,
           "run": {
             "id": "zn029q3y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zn029q3y",
@@ -23307,7 +23463,7 @@
           }
         },
         {
-          "place": 20,
+          "place": 21,
           "run": {
             "id": "m78pov0z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m78pov0z",
@@ -23359,7 +23515,7 @@
           }
         },
         {
-          "place": 21,
+          "place": 22,
           "run": {
             "id": "zp4kgj8z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zp4kgj8z",
@@ -23411,7 +23567,7 @@
           }
         },
         {
-          "place": 22,
+          "place": 23,
           "run": {
             "id": "m7nlko0z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m7nlko0z",
@@ -23463,7 +23619,7 @@
           }
         },
         {
-          "place": 23,
+          "place": 24,
           "run": {
             "id": "yl0dx0ky",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yl0dx0ky",
@@ -23515,7 +23671,7 @@
           }
         },
         {
-          "place": 24,
+          "place": 25,
           "run": {
             "id": "yo7rx6jm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yo7rx6jm",
@@ -23567,7 +23723,7 @@
           }
         },
         {
-          "place": 25,
+          "place": 26,
           "run": {
             "id": "mex3v53z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/mex3v53z",
@@ -23619,7 +23775,7 @@
           }
         },
         {
-          "place": 26,
+          "place": 27,
           "run": {
             "id": "mr8gkk7y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/mr8gkk7y",
@@ -23671,7 +23827,7 @@
           }
         },
         {
-          "place": 27,
+          "place": 28,
           "run": {
             "id": "yj3d88oz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yj3d88oz",
@@ -23723,7 +23879,7 @@
           }
         },
         {
-          "place": 28,
+          "place": 29,
           "run": {
             "id": "y6pj55qm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y6pj55qm",
@@ -24502,6 +24658,58 @@
         {
           "place": 1,
           "run": {
+            "id": "z1vl31gz",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/z1vl31gz",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/gtlrLbBvm_Q"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-14T13:43:07Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T13:33:09Z",
+            "times": {
+              "primary": "PT24.553S",
+              "primary_t": 24.553,
+              "realtime": "PT24.553S",
+              "realtime_t": 24.553,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "p122vvv1",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
             "id": "yl6kp3ky",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yl6kp3ky",
             "game": "kdk5medm",
@@ -24552,7 +24760,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 3,
           "run": {
             "id": "z52ll6jz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z52ll6jz",
@@ -24604,7 +24812,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 4,
           "run": {
             "id": "zqgekd8m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zqgekd8m",
@@ -24656,7 +24864,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 5,
           "run": {
             "id": "zq75l05m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zq75l05m",
@@ -24708,7 +24916,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 6,
           "run": {
             "id": "znk67w7z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/znk67w7z",
@@ -24760,7 +24968,7 @@
           }
         },
         {
-          "place": 6,
+          "place": 7,
           "run": {
             "id": "y90g13ny",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y90g13ny",
@@ -24848,6 +25056,110 @@
         {
           "place": 1,
           "run": {
+            "id": "zgjen8jz",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zgjen8jz",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/KN1Ouef9gU4"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-14T23:06:26Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T16:35:22Z",
+            "times": {
+              "primary": "PT32.750S",
+              "primary_t": 32.75,
+              "realtime": "PT32.750S",
+              "realtime_t": 32.75,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "5lee26pl",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
+            "id": "ylp18d2m",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/ylp18d2m",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/bvjQkcg_6oo"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "1xyplgmx",
+              "verify-date": "2025-02-12T04:37:10Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-02-08",
+            "submitted": "2025-02-08T02:09:55Z",
+            "times": {
+              "primary": "PT33.832S",
+              "primary_t": 33.832,
+              "realtime": "PT33.832S",
+              "realtime_t": 33.832,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "5lee26pl",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
+          "run": {
             "id": "z0j583ey",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z0j583ey",
             "game": "kdk5medm",
@@ -24898,7 +25210,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 4,
           "run": {
             "id": "zxog61gz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zxog61gz",
@@ -24950,7 +25262,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 5,
           "run": {
             "id": "me9ggn2z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me9ggn2z",
@@ -25002,7 +25314,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 6,
           "run": {
             "id": "yo9jkq5y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yo9jkq5y",
@@ -25054,7 +25366,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 7,
           "run": {
             "id": "meod619z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/meod619z",
@@ -26232,6 +26544,110 @@
         {
           "place": 1,
           "run": {
+            "id": "menlk02m",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/menlk02m",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/Wa6Xe9qeQWM"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-14T23:05:34Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T16:35:40Z",
+            "times": {
+              "primary": "PT31.525S",
+              "primary_t": 31.525,
+              "realtime": "PT31.525S",
+              "realtime_t": 31.525,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "0q52v9rq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
+            "id": "mkod69vz",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/mkod69vz",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/b30H5oozksU"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-11T20:09:45Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-02-07",
+            "submitted": "2025-02-07T23:05:44Z",
+            "times": {
+              "primary": "PT32.481S",
+              "primary_t": 32.481,
+              "realtime": "PT32.481S",
+              "realtime_t": 32.481,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "0q52v9rq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
+          "run": {
             "id": "yvp948oy",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yvp948oy",
             "game": "kdk5medm",
@@ -26282,7 +26698,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 4,
           "run": {
             "id": "y27xvojz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y27xvojz",
@@ -26334,7 +26750,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 5,
           "run": {
             "id": "zgxoo3nm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zgxoo3nm",
@@ -26386,7 +26802,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 6,
           "run": {
             "id": "yj6nexoz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yj6nexoz",
@@ -26438,7 +26854,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 7,
           "run": {
             "id": "y2d8929z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y2d8929z",
@@ -26490,7 +26906,7 @@
           }
         },
         {
-          "place": 6,
+          "place": 8,
           "run": {
             "id": "z1oq499m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z1oq499m",
@@ -26542,7 +26958,7 @@
           }
         },
         {
-          "place": 7,
+          "place": 9,
           "run": {
             "id": "y60r21py",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y60r21py",
@@ -27028,15 +27444,15 @@
         {
           "place": 1,
           "run": {
-            "id": "yvnoknxm",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/yvnoknxm",
+            "id": "zgje30nz",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zgje30nz",
             "game": "kdk5medm",
             "level": "ldygrnrd",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://youtu.be/mSrHaCJF5aE"
+                  "uri": "https://youtu.be/-OQW4R20Eqk"
                 }
               ]
             },
@@ -27044,7 +27460,7 @@
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-02-11T14:01:00Z"
+              "verify-date": "2025-02-14T12:32:06Z"
             },
             "players": [
               {
@@ -27053,13 +27469,13 @@
                 "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
               }
             ],
-            "date": "2025-01-20",
-            "submitted": "2025-01-21T15:29:25Z",
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T11:59:18Z",
             "times": {
-              "primary": "PT17.980S",
-              "primary_t": 17.98,
-              "realtime": "PT17.980S",
-              "realtime_t": 17.98,
+              "primary": "PT16.711S",
+              "primary_t": 16.711,
+              "realtime": "PT16.711S",
+              "realtime_t": 16.711,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -27079,6 +27495,58 @@
         },
         {
           "place": 2,
+          "run": {
+            "id": "yoqdw01z",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/yoqdw01z",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/B5e-CAqJVJQ"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "1xyplgmx",
+              "verify-date": "2025-02-12T04:37:26Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-02-08",
+            "submitted": "2025-02-08T02:10:19Z",
+            "times": {
+              "primary": "PT17.110S",
+              "primary_t": 17.11,
+              "realtime": "PT17.110S",
+              "realtime_t": 17.11,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "4lxy5vjq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
           "run": {
             "id": "z0okppoz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z0okppoz",
@@ -27130,7 +27598,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 4,
           "run": {
             "id": "yvo12dxz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yvo12dxz",
@@ -27182,7 +27650,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 5,
           "run": {
             "id": "mr4xx82z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/mr4xx82z",
@@ -27234,7 +27702,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 6,
           "run": {
             "id": "me75j4qy",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me75j4qy",
@@ -27286,7 +27754,7 @@
           }
         },
         {
-          "place": 6,
+          "place": 7,
           "run": {
             "id": "y428n43m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y428n43m",
@@ -27338,7 +27806,7 @@
           }
         },
         {
-          "place": 7,
+          "place": 8,
           "run": {
             "id": "yw03jgnm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yw03jgnm",
@@ -27928,6 +28396,110 @@
         {
           "place": 1,
           "run": {
+            "id": "ydvjq2xy",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/ydvjq2xy",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/gLMihltVy7Y"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-14T23:01:07Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T16:35:47Z",
+            "times": {
+              "primary": "PT39.740S",
+              "primary_t": 39.74,
+              "realtime": "PT39.740S",
+              "realtime_t": 39.74,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "gq7755nq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
+            "id": "yvn0dlxm",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/yvn0dlxm",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/m75Rucnghsw"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "1xyplgmx",
+              "verify-date": "2025-02-12T04:36:21Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-02-08",
+            "submitted": "2025-02-08T02:08:56Z",
+            "times": {
+              "primary": "PT40.678S",
+              "primary_t": 40.678,
+              "realtime": "PT40.678S",
+              "realtime_t": 40.678,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "gq7755nq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
+          "run": {
             "id": "m76eev9y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m76eev9y",
             "game": "kdk5medm",
@@ -27978,7 +28550,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 4,
           "run": {
             "id": "yjpoqqdy",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yjpoqqdy",
@@ -28030,7 +28602,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 5,
           "run": {
             "id": "y88wpd5y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y88wpd5y",
@@ -28082,7 +28654,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 6,
           "run": {
             "id": "z06qd4jz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z06qd4jz",
@@ -28134,7 +28706,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 7,
           "run": {
             "id": "zp96gkvm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zp96gkvm",
@@ -28186,7 +28758,7 @@
           }
         },
         {
-          "place": 6,
+          "place": 8,
           "run": {
             "id": "yv6e9p4z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yv6e9p4z",
@@ -28274,6 +28846,110 @@
         {
           "place": 1,
           "run": {
+            "id": "y9p87krm",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/y9p87krm",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/b4cdjOp3CIU"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-14T23:00:46Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T16:35:49Z",
+            "times": {
+              "primary": "PT25.660S",
+              "primary_t": 25.66,
+              "realtime": "PT25.660S",
+              "realtime_t": 25.66,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "8142o5wl",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
+            "id": "yjed0o7m",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/yjed0o7m",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/P13SkM2we-g"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "1xyplgmx",
+              "verify-date": "2025-02-12T04:36:56Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-02-08",
+            "submitted": "2025-02-08T02:09:32Z",
+            "times": {
+              "primary": "PT26.915S",
+              "primary_t": 26.915,
+              "realtime": "PT26.915S",
+              "realtime_t": 26.915,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "8142o5wl",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
+          "run": {
             "id": "y2wne25y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y2wne25y",
             "game": "kdk5medm",
@@ -28324,7 +29000,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 4,
           "run": {
             "id": "ywkq092y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/ywkq092y",
@@ -28376,7 +29052,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 5,
           "run": {
             "id": "me9ggo9z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me9ggo9z",
@@ -28428,7 +29104,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 6,
           "run": {
             "id": "mk75wxxy",
             "weblink": "https://www.speedrun.com/beamngdrive/run/mk75wxxy",
@@ -28516,6 +29192,110 @@
         {
           "place": 1,
           "run": {
+            "id": "zpkwqpvy",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zpkwqpvy",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/n7aW6wEn8Qw"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-14T23:01:29Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T16:35:45Z",
+            "times": {
+              "primary": "PT35.307S",
+              "primary_t": 35.307,
+              "realtime": "PT35.307S",
+              "realtime_t": 35.307,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "z19z22jq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
+            "id": "z08lgo9m",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/z08lgo9m",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/HMpiZwRhZrs"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "1xyplgmx",
+              "verify-date": "2025-02-12T04:35:17Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-02-08",
+            "submitted": "2025-02-08T00:40:27Z",
+            "times": {
+              "primary": "PT35.559S",
+              "primary_t": 35.559,
+              "realtime": "PT35.559S",
+              "realtime_t": 35.559,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "z19z22jq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
+          "run": {
             "id": "y4827l3m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y4827l3m",
             "game": "kdk5medm",
@@ -28566,7 +29346,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 4,
           "run": {
             "id": "mk5xknvm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/mk5xknvm",
@@ -28618,7 +29398,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 5,
           "run": {
             "id": "mk711e1y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/mk711e1y",
@@ -28670,7 +29450,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 6,
           "run": {
             "id": "yv2v896m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yv2v896m",
@@ -28722,7 +29502,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 7,
           "run": {
             "id": "me93jg2z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me93jg2z",
@@ -29312,6 +30092,58 @@
         {
           "place": 1,
           "run": {
+            "id": "ylp69lxm",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/ylp69lxm",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/j1ThYCzuOsU"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-14T23:07:19Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-14",
+            "submitted": "2025-02-14T16:35:19Z",
+            "times": {
+              "primary": "PT33.680S",
+              "primary_t": 33.68,
+              "realtime": "PT33.680S",
+              "realtime_t": 33.68,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "mln66pjq",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
             "id": "znjogk7m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/znjogk7m",
             "game": "kdk5medm",
@@ -29362,7 +30194,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 3,
           "run": {
             "id": "yw3d2d3m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yw3d2d3m",
@@ -29414,7 +30246,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 4,
           "run": {
             "id": "y2vrqj6z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y2vrqj6z",
@@ -29466,7 +30298,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 5,
           "run": {
             "id": "me9eve8z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me9eve8z",
@@ -29518,7 +30350,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 6,
           "run": {
             "id": "yvr15k4z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yvr15k4z",
@@ -29570,7 +30402,7 @@
           }
         },
         {
-          "place": 6,
+          "place": 7,
           "run": {
             "id": "m78p4jwz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m78p4jwz",
@@ -29622,7 +30454,7 @@
           }
         },
         {
-          "place": 7,
+          "place": 8,
           "run": {
             "id": "me6rn90z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me6rn90z",
@@ -29674,7 +30506,7 @@
           }
         },
         {
-          "place": 8,
+          "place": 9,
           "run": {
             "id": "meodd2qz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/meodd2qz",
@@ -29726,7 +30558,7 @@
           }
         },
         {
-          "place": 9,
+          "place": 10,
           "run": {
             "id": "ylk581nz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/ylk581nz",
@@ -29778,7 +30610,7 @@
           }
         },
         {
-          "place": 10,
+          "place": 11,
           "run": {
             "id": "y658qx0z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y658qx0z",
@@ -29830,7 +30662,7 @@
           }
         },
         {
-          "place": 11,
+          "place": 12,
           "run": {
             "id": "y82nkrdy",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y82nkrdy",
@@ -34181,6 +35013,58 @@
         {
           "place": 13,
           "run": {
+            "id": "zq208q8z",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zq208q8z",
+            "game": "kdk5medm",
+            "level": "rdn2oend",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/aGNXeWv8bgs"
+                }
+              ]
+            },
+            "comment": "@Airwreckgaming's idea on the jump, almost impossible but here we are.",
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-11T20:08:48Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-01-25",
+            "submitted": "2025-01-25T21:07:46Z",
+            "times": {
+              "primary": "PT34.349S",
+              "primary_t": 34.349,
+              "realtime": "PT34.349S",
+              "realtime_t": 34.349,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "wlex21x8": "rqv3vn5l",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 14,
+          "run": {
             "id": "z1lrwvjm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z1lrwvjm",
             "game": "kdk5medm",
@@ -34231,7 +35115,7 @@
           }
         },
         {
-          "place": 14,
+          "place": 15,
           "run": {
             "id": "y4x0p8kz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y4x0p8kz",
@@ -34283,7 +35167,7 @@
           }
         },
         {
-          "place": 15,
+          "place": 16,
           "run": {
             "id": "me33xe2z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me33xe2z",
@@ -34335,7 +35219,7 @@
           }
         },
         {
-          "place": 16,
+          "place": 17,
           "run": {
             "id": "me3k6e9z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me3k6e9z",
@@ -34387,7 +35271,7 @@
           }
         },
         {
-          "place": 17,
+          "place": 18,
           "run": {
             "id": "m7gpl2wm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m7gpl2wm",
@@ -34439,7 +35323,7 @@
           }
         },
         {
-          "place": 18,
+          "place": 19,
           "run": {
             "id": "yd5q71xm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yd5q71xm",
@@ -35148,6 +36032,58 @@
         {
           "place": 13,
           "run": {
+            "id": "zq208q8z",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zq208q8z",
+            "game": "kdk5medm",
+            "level": "rdn2oend",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/aGNXeWv8bgs"
+                }
+              ]
+            },
+            "comment": "@Airwreckgaming's idea on the jump, almost impossible but here we are.",
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-11T20:08:48Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-01-25",
+            "submitted": "2025-01-25T21:07:46Z",
+            "times": {
+              "primary": "PT34.349S",
+              "primary_t": 34.349,
+              "realtime": "PT34.349S",
+              "realtime_t": 34.349,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "wlex21x8": "rqv3vn5l",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 14,
+          "run": {
             "id": "z1lrwvjm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z1lrwvjm",
             "game": "kdk5medm",
@@ -35198,7 +36134,7 @@
           }
         },
         {
-          "place": 14,
+          "place": 15,
           "run": {
             "id": "y4x0p8kz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y4x0p8kz",
@@ -35250,7 +36186,7 @@
           }
         },
         {
-          "place": 15,
+          "place": 16,
           "run": {
             "id": "me33xe2z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me33xe2z",
@@ -35302,7 +36238,7 @@
           }
         },
         {
-          "place": 16,
+          "place": 17,
           "run": {
             "id": "me3k6e9z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me3k6e9z",
@@ -35354,7 +36290,7 @@
           }
         },
         {
-          "place": 17,
+          "place": 18,
           "run": {
             "id": "m7gpl2wm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m7gpl2wm",
@@ -35406,7 +36342,7 @@
           }
         },
         {
-          "place": 18,
+          "place": 19,
           "run": {
             "id": "yd5q71xm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yd5q71xm",
@@ -36115,6 +37051,58 @@
         {
           "place": 13,
           "run": {
+            "id": "zq208q8z",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zq208q8z",
+            "game": "kdk5medm",
+            "level": "rdn2oend",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/aGNXeWv8bgs"
+                }
+              ]
+            },
+            "comment": "@Airwreckgaming's idea on the jump, almost impossible but here we are.",
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-11T20:08:48Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-01-25",
+            "submitted": "2025-01-25T21:07:46Z",
+            "times": {
+              "primary": "PT34.349S",
+              "primary_t": 34.349,
+              "realtime": "PT34.349S",
+              "realtime_t": 34.349,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "wlex21x8": "rqv3vn5l",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 14,
+          "run": {
             "id": "z1lrwvjm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z1lrwvjm",
             "game": "kdk5medm",
@@ -36165,7 +37153,7 @@
           }
         },
         {
-          "place": 14,
+          "place": 15,
           "run": {
             "id": "y4x0p8kz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y4x0p8kz",
@@ -36217,7 +37205,7 @@
           }
         },
         {
-          "place": 15,
+          "place": 16,
           "run": {
             "id": "me33xe2z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me33xe2z",
@@ -36269,7 +37257,7 @@
           }
         },
         {
-          "place": 16,
+          "place": 17,
           "run": {
             "id": "me3k6e9z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/me3k6e9z",
@@ -36321,7 +37309,7 @@
           }
         },
         {
-          "place": 17,
+          "place": 18,
           "run": {
             "id": "m7gpl2wm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/m7gpl2wm",
@@ -36373,7 +37361,7 @@
           }
         },
         {
-          "place": 18,
+          "place": 19,
           "run": {
             "id": "yd5q71xm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/yd5q71xm",
@@ -37826,6 +38814,58 @@
         {
           "place": 1,
           "run": {
+            "id": "zn9j67vy",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zn9j67vy",
+            "game": "kdk5medm",
+            "level": "kwj3mmrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/e_qcE7V53Yk"
+                }
+              ]
+            },
+            "comment": "\"Oil is for losers...\n\nI like my engine taking it raw\"\n\n-Skeel 2025",
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-13T13:55:18Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "zxz6y148",
+                "uri": "https://www.speedrun.com/api/v1/users/zxz6y148"
+              }
+            ],
+            "date": "2025-02-13",
+            "submitted": "2025-02-13T03:55:19Z",
+            "times": {
+              "primary": "PT56.990S",
+              "primary_t": 56.99,
+              "realtime": "PT56.990S",
+              "realtime_t": 56.99,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "wlex4kx8": "21g2xxol",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
             "id": "y2wl9q7y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y2wl9q7y",
             "game": "kdk5medm",
@@ -37858,58 +38898,6 @@
               "primary_t": 58.161,
               "realtime": "PT58.161S",
               "realtime_t": 58.161,
-              "realtime_noloads": null,
-              "realtime_noloads_t": 0,
-              "ingame": null,
-              "ingame_t": 0
-            },
-            "system": {
-              "platform": "8gej2n93",
-              "emulated": false,
-              "region": null
-            },
-            "splits": null,
-            "values": {
-              "wlex4kx8": "21g2xxol",
-              "9l77k57l": "klrn00w1"
-            }
-          }
-        },
-        {
-          "place": 2,
-          "run": {
-            "id": "z1ronw7m",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/z1ronw7m",
-            "game": "kdk5medm",
-            "level": "kwj3mmrd",
-            "category": "wkpy8gjk",
-            "videos": {
-              "links": [
-                {
-                  "uri": "https://youtu.be/UA79Ip1wKjk"
-                }
-              ]
-            },
-            "comment": null,
-            "status": {
-              "status": "verified",
-              "examiner": "1xyplgmx",
-              "verify-date": "2021-05-04T02:40:26Z"
-            },
-            "players": [
-              {
-                "rel": "user",
-                "id": "zxz6y148",
-                "uri": "https://www.speedrun.com/api/v1/users/zxz6y148"
-              }
-            ],
-            "date": "2021-05-03",
-            "submitted": "2021-05-04T00:31:28Z",
-            "times": {
-              "primary": "PT58.783S",
-              "primary_t": 58.783,
-              "realtime": "PT58.783S",
-              "realtime_t": 58.783,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -40345,23 +41333,23 @@
         {
           "place": 1,
           "run": {
-            "id": "yoxww31y",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/yoxww31y",
+            "id": "yoqrkd7z",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/yoqrkd7z",
             "game": "kdk5medm",
             "level": "kwj3mmrd",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://youtu.be/Q9KsCfkaT4I"
+                  "uri": "https://youtu.be/sWUoaz6f1G0"
                 }
               ]
             },
-            "comment": "Sorry for the cursing...",
+            "comment": "Sorry not sorry for the bangin hardstyle",
             "status": {
               "status": "verified",
-              "examiner": "1xyplgmx",
-              "verify-date": "2024-12-14T20:38:58Z"
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-11T20:07:23Z"
             },
             "players": [
               {
@@ -40370,13 +41358,13 @@
                 "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
               }
             ],
-            "date": "2024-11-19",
-            "submitted": "2024-11-19T15:47:41Z",
+            "date": "2025-01-23",
+            "submitted": "2025-01-23T03:18:23Z",
             "times": {
-              "primary": "PT2M3.253S",
-              "primary_t": 123.253,
-              "realtime": "PT2M3.253S",
-              "realtime_t": 123.253,
+              "primary": "PT1M57.909S",
+              "primary_t": 117.909,
+              "realtime": "PT1M57.909S",
+              "realtime_t": 117.909,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -42489,38 +43477,38 @@
         {
           "place": 1,
           "run": {
-            "id": "mkog1dlz",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/mkog1dlz",
+            "id": "mr0ow8dm",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/mr0ow8dm",
             "game": "kdk5medm",
             "level": "gdrx0mld",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://www.youtube.com/watch?v=jb-01dzX9xQ"
+                  "uri": "https://youtu.be/-UwLYPTYNZA"
                 }
               ]
             },
-            "comment": null,
+            "comment": "Song is Recharging the Void by Vektor (Yes I listened to this whole album twice today so apparently it takes me 73 minutes to get a WR)",
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-02-09T15:21:15Z"
+              "verify-date": "2025-02-13T02:24:30Z"
             },
             "players": [
               {
                 "rel": "user",
-                "id": "o864o50j",
-                "uri": "https://www.speedrun.com/api/v1/users/o864o50j"
+                "id": "zxz6y148",
+                "uri": "https://www.speedrun.com/api/v1/users/zxz6y148"
               }
             ],
-            "date": "2024-07-03",
-            "submitted": "2025-01-13T21:23:01Z",
+            "date": "2025-02-13",
+            "submitted": "2025-02-13T02:12:48Z",
             "times": {
-              "primary": "PT1M28.281S",
-              "primary_t": 88.281,
-              "realtime": "PT1M28.281S",
-              "realtime_t": 88.281,
+              "primary": "PT1M23.626S",
+              "primary_t": 83.626,
+              "realtime": "PT1M23.626S",
+              "realtime_t": 83.626,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -42540,6 +43528,110 @@
         },
         {
           "place": 2,
+          "run": {
+            "id": "z5le62jy",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/z5le62jy",
+            "game": "kdk5medm",
+            "level": "gdrx0mld",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://www.youtube.com/watch?v=X-eYOVrreIE"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-12T23:03:06Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "o864o50j",
+                "uri": "https://www.speedrun.com/api/v1/users/o864o50j"
+              }
+            ],
+            "date": "2025-02-12",
+            "submitted": "2025-02-12T22:15:38Z",
+            "times": {
+              "primary": "PT1M24.541S",
+              "primary_t": 84.541,
+              "realtime": "PT1M24.541S",
+              "realtime_t": 84.541,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "wl362xol": "81wn4491",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
+          "run": {
+            "id": "ylpnqq3m",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/ylpnqq3m",
+            "game": "kdk5medm",
+            "level": "gdrx0mld",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/3I4zTQO0YsI?si=BG1GnUoJxDnbd72Q"
+                }
+              ]
+            },
+            "comment": "not the best with a wheel",
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-14T00:05:06Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j2qkdroj",
+                "uri": "https://www.speedrun.com/api/v1/users/j2qkdroj"
+              }
+            ],
+            "date": "2025-02-09",
+            "submitted": "2025-02-09T19:37:28Z",
+            "times": {
+              "primary": "PT1M27.715S",
+              "primary_t": 87.715,
+              "realtime": "PT1M27.715S",
+              "realtime_t": 87.715,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "wl362xol": "81wn4491",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 4,
           "run": {
             "id": "y9dl242m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y9dl242m",
@@ -42591,7 +43683,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 5,
           "run": {
             "id": "ydln7l0z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/ydln7l0z",
@@ -42643,7 +43735,7 @@
           }
         },
         {
-          "place": 4,
+          "place": 6,
           "run": {
             "id": "ywql9q0y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/ywql9q0y",
@@ -42695,7 +43787,7 @@
           }
         },
         {
-          "place": 5,
+          "place": 7,
           "run": {
             "id": "y2v44g5z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y2v44g5z",
@@ -77364,23 +78456,23 @@
         {
           "place": 1,
           "run": {
-            "id": "y6go22jm",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/y6go22jm",
+            "id": "zgjew6jz",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zgjew6jz",
             "game": "kdk5medm",
             "level": "ywe66jy9",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://youtu.be/WLN2Uppd2Eo"
+                  "uri": "https://youtu.be/yw14ZGybP5M"
                 }
               ]
             },
-            "comment": "Come Get Some!!!",
+            "comment": null,
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-02-11T13:22:34Z"
+              "verify-date": "2025-02-15T12:33:45Z"
             },
             "players": [
               {
@@ -77389,13 +78481,13 @@
                 "uri": "https://www.speedrun.com/api/v1/users/jm7wm2yj"
               }
             ],
-            "date": "2025-02-11",
-            "submitted": "2025-02-11T08:47:30Z",
+            "date": "2025-02-15",
+            "submitted": "2025-02-15T07:17:27Z",
             "times": {
-              "primary": "PT50.848S",
-              "primary_t": 50.848,
-              "realtime": "PT50.848S",
-              "realtime_t": 50.848,
+              "primary": "PT50.809S",
+              "primary_t": 50.809,
+              "realtime": "PT50.809S",
+              "realtime_t": 50.809,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -77415,23 +78507,23 @@
         {
           "place": 2,
           "run": {
-            "id": "y6goxo1m",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/y6goxo1m",
+            "id": "zn9je63y",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zn9je63y",
             "game": "kdk5medm",
             "level": "ywe66jy9",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://www.youtube.com/watch?v=lbut-j165V0"
+                  "uri": "https://www.youtube.com/watch?v=ljagPb7C-YA"
                 }
               ]
             },
-            "comment": "POLSKA GUROOOOOOOM",
+            "comment": "POLSKA GUROOOOOOM",
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-02-10T21:43:21Z"
+              "verify-date": "2025-02-11T18:46:28Z"
             },
             "players": [
               {
@@ -77440,13 +78532,13 @@
                 "uri": "https://www.speedrun.com/api/v1/users/8l4q5olj"
               }
             ],
-            "date": "2025-02-10",
-            "submitted": "2025-02-10T21:23:04Z",
+            "date": "2025-02-11",
+            "submitted": "2025-02-11T18:14:00Z",
             "times": {
-              "primary": "PT51.095S",
-              "primary_t": 51.095,
-              "realtime": "PT51.095S",
-              "realtime_t": 51.095,
+              "primary": "PT50.839S",
+              "primary_t": 50.839,
+              "realtime": "PT50.839S",
+              "realtime_t": 50.839,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -79621,23 +80713,23 @@
         {
           "place": 1,
           "run": {
-            "id": "ywwpxppy",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/ywwpxppy",
+            "id": "yvn8j24m",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/yvn8j24m",
             "game": "kdk5medm",
             "level": "d0kv5mm9",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://www.twitch.tv/videos/2327535628"
+                  "uri": "https://youtu.be/nGC8KLY0YRI"
                 }
               ]
             },
             "comment": null,
             "status": {
               "status": "verified",
-              "examiner": "68wde23x",
-              "verify-date": "2024-12-21T17:09:15Z"
+              "examiner": "jpylpv0j",
+              "verify-date": "2025-02-11T22:58:45Z"
             },
             "players": [
               {
@@ -79646,13 +80738,13 @@
                 "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
               }
             ],
-            "date": "2024-12-15",
-            "submitted": "2024-12-15T16:55:27Z",
+            "date": "2025-02-08",
+            "submitted": "2025-02-08T21:26:03Z",
             "times": {
-              "primary": "PT26.171S",
-              "primary_t": 26.171,
-              "realtime": "PT26.171S",
-              "realtime_t": 26.171,
+              "primary": "PT26.112S",
+              "primary_t": 26.112,
+              "realtime": "PT26.112S",
+              "realtime_t": 26.112,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -95380,6 +96472,108 @@
         {
           "place": 7,
           "run": {
+            "id": "mko03qxz",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/mko03qxz",
+            "game": "kdk5medm",
+            "level": "owokrpjd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/T0CO-YOHc20"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-02-15T12:29:17Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jn393w2x",
+                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
+              }
+            ],
+            "date": "2025-02-15",
+            "submitted": "2025-02-15T05:47:20Z",
+            "times": {
+              "primary": "PT19.194S",
+              "primary_t": 19.194,
+              "realtime": "PT19.194S",
+              "realtime_t": 19.194,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 8,
+          "run": {
+            "id": "zn9vrdly",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zn9vrdly",
+            "game": "kdk5medm",
+            "level": "owokrpjd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/Dl5juxN3wlM"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-15T05:19:54Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-02-15",
+            "submitted": "2025-02-15T02:00:01Z",
+            "times": {
+              "primary": "PT19.221S",
+              "primary_t": 19.221,
+              "realtime": "PT19.221S",
+              "realtime_t": 19.221,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 9,
+          "run": {
             "id": "zx644o5z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zx644o5z",
             "game": "kdk5medm",
@@ -95429,7 +96623,7 @@
           }
         },
         {
-          "place": 8,
+          "place": 10,
           "run": {
             "id": "zx247xem",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zx247xem",
@@ -95480,7 +96674,7 @@
           }
         },
         {
-          "place": 9,
+          "place": 11,
           "run": {
             "id": "zp42r58z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zp42r58z",
@@ -95531,7 +96725,7 @@
           }
         },
         {
-          "place": 10,
+          "place": 12,
           "run": {
             "id": "zn0rwk8y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zn0rwk8y",
@@ -95582,7 +96776,7 @@
           }
         },
         {
-          "place": 11,
+          "place": 13,
           "run": {
             "id": "mrnkl77y",
             "weblink": "https://www.speedrun.com/beamngdrive/run/mrnkl77y",
@@ -95633,7 +96827,7 @@
           }
         },
         {
-          "place": 12,
+          "place": 14,
           "run": {
             "id": "y2v1n0jz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/y2v1n0jz",
@@ -95680,108 +96874,6 @@
             "splits": null,
             "values": {
               "9l77k57l": "jqzk55kq"
-            }
-          }
-        },
-        {
-          "place": 13,
-          "run": {
-            "id": "y8ojl11m",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/y8ojl11m",
-            "game": "kdk5medm",
-            "level": "owokrpjd",
-            "category": "wkpy8gjk",
-            "videos": {
-              "links": [
-                {
-                  "uri": "https://youtu.be/O6wrstKDXOM"
-                }
-              ]
-            },
-            "comment": "No more external timers!",
-            "status": {
-              "status": "verified",
-              "examiner": "8r2gvg6x",
-              "verify-date": "2025-02-07T18:52:31Z"
-            },
-            "players": [
-              {
-                "rel": "user",
-                "id": "j4645lw8",
-                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
-              }
-            ],
-            "date": "2025-01-26",
-            "submitted": "2025-01-26T17:41:55Z",
-            "times": {
-              "primary": "PT19.315S",
-              "primary_t": 19.315,
-              "realtime": "PT19.315S",
-              "realtime_t": 19.315,
-              "realtime_noloads": null,
-              "realtime_noloads_t": 0,
-              "ingame": null,
-              "ingame_t": 0
-            },
-            "system": {
-              "platform": "8gej2n93",
-              "emulated": false,
-              "region": null
-            },
-            "splits": null,
-            "values": {
-              "9l77k57l": "klrn00w1"
-            }
-          }
-        },
-        {
-          "place": 14,
-          "run": {
-            "id": "zn9pwgvy",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/zn9pwgvy",
-            "game": "kdk5medm",
-            "level": "owokrpjd",
-            "category": "wkpy8gjk",
-            "videos": {
-              "links": [
-                {
-                  "uri": "https://youtu.be/SkpazL4p5EM"
-                }
-              ]
-            },
-            "comment": null,
-            "status": {
-              "status": "verified",
-              "examiner": "8r2gvg6x",
-              "verify-date": "2025-02-07T18:53:08Z"
-            },
-            "players": [
-              {
-                "rel": "user",
-                "id": "jn393w2x",
-                "uri": "https://www.speedrun.com/api/v1/users/jn393w2x"
-              }
-            ],
-            "date": "2025-01-27",
-            "submitted": "2025-01-27T14:18:46Z",
-            "times": {
-              "primary": "PT19.324S",
-              "primary_t": 19.324,
-              "realtime": "PT19.324S",
-              "realtime_t": 19.324,
-              "realtime_noloads": null,
-              "realtime_noloads_t": 0,
-              "ingame": null,
-              "ingame_t": 0
-            },
-            "system": {
-              "platform": "8gej2n93",
-              "emulated": false,
-              "region": null
-            },
-            "splits": null,
-            "values": {
-              "9l77k57l": "klrn00w1"
             }
           }
         },
@@ -101605,6 +102697,57 @@
         {
           "place": 1,
           "run": {
+            "id": "ydvw39wy",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/ydvw39wy",
+            "game": "kdk5medm",
+            "level": "w6qk68pd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://www.youtube.com/watch?v=ErHrsxRlK2k"
+                }
+              ]
+            },
+            "comment": "basically just optimized the unloading a bit =3",
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-11T20:26:31Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "jmo1vqo8",
+                "uri": "https://www.speedrun.com/api/v1/users/jmo1vqo8"
+              }
+            ],
+            "date": "2025-01-22",
+            "submitted": "2025-01-22T15:22:28Z",
+            "times": {
+              "primary": "PT2M45.171S",
+              "primary_t": 165.171,
+              "realtime": "PT2M45.171S",
+              "realtime_t": 165.171,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
             "id": "z083np9m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z083np9m",
             "game": "kdk5medm",
@@ -101654,7 +102797,7 @@
           }
         },
         {
-          "place": 2,
+          "place": 3,
           "run": {
             "id": "z58ek8gz",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z58ek8gz",
@@ -103536,6 +104679,57 @@
         {
           "place": 2,
           "run": {
+            "id": "zn9jjv8y",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/zn9jjv8y",
+            "game": "kdk5medm",
+            "level": "5wk1pk5d",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://youtu.be/hFNfdRlIL2M"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "zxz6y148",
+              "verify-date": "2025-02-11T20:29:32Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "j4645lw8",
+                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
+              }
+            ],
+            "date": "2025-02-11",
+            "submitted": "2025-02-11T01:42:08Z",
+            "times": {
+              "primary": "PT2M26.482S",
+              "primary_t": 146.482,
+              "realtime": "PT2M26.482S",
+              "realtime_t": 146.482,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 3,
+          "run": {
             "id": "z1lnlrgm",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z1lnlrgm",
             "game": "kdk5medm",
@@ -103585,7 +104779,7 @@
           }
         },
         {
-          "place": 3,
+          "place": 4,
           "run": {
             "id": "zq2grr9z",
             "weblink": "https://www.speedrun.com/beamngdrive/run/zq2grr9z",
@@ -103619,57 +104813,6 @@
               "primary_t": 149.914,
               "realtime": "PT2M29.914S",
               "realtime_t": 149.914,
-              "realtime_noloads": null,
-              "realtime_noloads_t": 0,
-              "ingame": null,
-              "ingame_t": 0
-            },
-            "system": {
-              "platform": "8gej2n93",
-              "emulated": false,
-              "region": null
-            },
-            "splits": null,
-            "values": {
-              "9l77k57l": "klrn00w1"
-            }
-          }
-        },
-        {
-          "place": 4,
-          "run": {
-            "id": "y4l4lekz",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/y4l4lekz",
-            "game": "kdk5medm",
-            "level": "5wk1pk5d",
-            "category": "wkpy8gjk",
-            "videos": {
-              "links": [
-                {
-                  "uri": "https://youtu.be/aR7jfi_ZqOc"
-                }
-              ]
-            },
-            "comment": "This mission actually checks if you have the cargo lol\n\nMaybe tie it down?'\n\nMod note: retimed to 2:55.715 (last shown IGT)\n",
-            "status": {
-              "status": "verified",
-              "examiner": "68wde23x",
-              "verify-date": "2024-12-06T12:28:52Z"
-            },
-            "players": [
-              {
-                "rel": "user",
-                "id": "j4645lw8",
-                "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
-              }
-            ],
-            "date": "2024-11-11",
-            "submitted": "2024-11-11T00:49:46Z",
-            "times": {
-              "primary": "PT2M55.715S",
-              "primary_t": 175.715,
-              "realtime": "PT2M55.715S",
-              "realtime_t": 175.715,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,

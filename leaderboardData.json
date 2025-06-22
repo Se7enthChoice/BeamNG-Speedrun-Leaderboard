@@ -31858,6 +31858,58 @@
         {
           "place": 1,
           "run": {
+            "id": "y8gedjnz",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/y8gedjnz",
+            "game": "kdk5medm",
+            "level": "ldygrnrd",
+            "category": "wkpy8gjk",
+            "videos": {
+              "links": [
+                {
+                  "uri": "https://www.youtube.com/watch?v=za3E6NmAkZ8"
+                }
+              ]
+            },
+            "comment": null,
+            "status": {
+              "status": "verified",
+              "examiner": "j4645lw8",
+              "verify-date": "2025-06-15T15:55:21Z"
+            },
+            "players": [
+              {
+                "rel": "user",
+                "id": "x7z92lq8",
+                "uri": "https://www.speedrun.com/api/v1/users/x7z92lq8"
+              }
+            ],
+            "date": "2025-06-13",
+            "submitted": "2025-06-13T17:08:26Z",
+            "times": {
+              "primary": "PT3M38.452S",
+              "primary_t": 218.452,
+              "realtime": "PT3M38.452S",
+              "realtime_t": 218.452,
+              "realtime_noloads": null,
+              "realtime_noloads_t": 0,
+              "ingame": null,
+              "ingame_t": 0
+            },
+            "system": {
+              "platform": "8gej2n93",
+              "emulated": false,
+              "region": null
+            },
+            "splits": null,
+            "values": {
+              "2lgzqdq8": "xqkn8w4q",
+              "9l77k57l": "klrn00w1"
+            }
+          }
+        },
+        {
+          "place": 2,
+          "run": {
             "id": "z16rp49m",
             "weblink": "https://www.speedrun.com/beamngdrive/run/z16rp49m",
             "game": "kdk5medm",
@@ -31890,58 +31942,6 @@
               "primary_t": 221.371,
               "realtime": "PT3M41.371S",
               "realtime_t": 221.371,
-              "realtime_noloads": null,
-              "realtime_noloads_t": 0,
-              "ingame": null,
-              "ingame_t": 0
-            },
-            "system": {
-              "platform": "8gej2n93",
-              "emulated": false,
-              "region": null
-            },
-            "splits": null,
-            "values": {
-              "2lgzqdq8": "xqkn8w4q",
-              "9l77k57l": "klrn00w1"
-            }
-          }
-        },
-        {
-          "place": 2,
-          "run": {
-            "id": "me26l40m",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/me26l40m",
-            "game": "kdk5medm",
-            "level": "ldygrnrd",
-            "category": "wkpy8gjk",
-            "videos": {
-              "links": [
-                {
-                  "uri": "https://www.youtube.com/watch?v=qLD4HMB6IWo"
-                }
-              ]
-            },
-            "comment": "Mod note: Retimed due to bug. Please reach out if you have questions.",
-            "status": {
-              "status": "verified",
-              "examiner": "j4645lw8",
-              "verify-date": "2025-05-28T15:27:02Z"
-            },
-            "players": [
-              {
-                "rel": "user",
-                "id": "x7z92lq8",
-                "uri": "https://www.speedrun.com/api/v1/users/x7z92lq8"
-              }
-            ],
-            "date": "2025-05-25",
-            "submitted": "2025-05-25T17:15:23Z",
-            "times": {
-              "primary": "PT3M46.962S",
-              "primary_t": 226.962,
-              "realtime": "PT3M46.962S",
-              "realtime_t": 226.962,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
@@ -89399,23 +89399,23 @@
         {
           "place": 1,
           "run": {
-            "id": "zq2v3v5z",
-            "weblink": "https://www.speedrun.com/beamngdrive/run/zq2v3v5z",
+            "id": "yd4rx80y",
+            "weblink": "https://www.speedrun.com/beamngdrive/run/yd4rx80y",
             "game": "kdk5medm",
             "level": "r9gzpgjd",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://youtu.be/YerbleEJmD0"
+                  "uri": "https://youtu.be/ogurN8nh_QQ"
                 }
               ]
             },
-            "comment": "Forgot to ad live split as a source on my new OBS scene, so added a timer in post.",
+            "comment": "Hotlap ui timer stops when you hit the final checkpoint and not when the mission ends so I used a timer in post.",
             "status": {
               "status": "verified",
-              "examiner": "zxz6y148",
-              "verify-date": "2025-02-10T16:52:25Z"
+              "examiner": "jpylpv0j",
+              "verify-date": "2025-06-19T12:33:35Z"
             },
             "players": [
               {
@@ -89424,13 +89424,13 @@
                 "uri": "https://www.speedrun.com/api/v1/users/j4645lw8"
               }
             ],
-            "date": "2025-01-16",
-            "submitted": "2025-01-16T20:14:34Z",
+            "date": "2025-06-10",
+            "submitted": "2025-06-10T17:17:29Z",
             "times": {
-              "primary": "PT1M28.430S",
-              "primary_t": 88.43,
-              "realtime": "PT1M28.430S",
-              "realtime_t": 88.43,
+              "primary": "PT1M23.100S",
+              "primary_t": 83.1,
+              "realtime": "PT1M23.100S",
+              "realtime_t": 83.1,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,

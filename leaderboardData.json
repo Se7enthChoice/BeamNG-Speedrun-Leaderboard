@@ -7645,23 +7645,23 @@
         {
           "place": 2,
           "run": {
-            "id": "y2r75p6m",
-            "weblink": "http://www.speedrun.com/beamngdrive/run/y2r75p6m",
+            "id": "y9w39xnz",
+            "weblink": "http://www.speedrun.com/beamngdrive/run/y9w39xnz",
             "game": "kdk5medm",
             "level": "xd1xery9",
             "category": "wkpy8gjk",
             "videos": {
               "links": [
                 {
-                  "uri": "https://youtu.be/nb2Fs2m31bo"
+                  "uri": "https://youtu.be/uxCuD0eZ7OE"
                 }
               ]
             },
-            "comment": null,
+            "comment": "I am so close. I'm coming for you Hyuk",
             "status": {
               "status": "verified",
               "examiner": "j4645lw8",
-              "verify-date": "2025-11-15T15:14:05Z"
+              "verify-date": "2025-11-17T11:30:45Z"
             },
             "players": [
               {
@@ -7671,12 +7671,12 @@
               }
             ],
             "date": "2025-11-15",
-            "submitted": "2025-11-15T01:20:18Z",
+            "submitted": "2025-11-15T21:09:56Z",
             "times": {
-              "primary": "PT2M46.496S",
-              "primary_t": 166.496,
-              "realtime": "PT2M46.496S",
-              "realtime_t": 166.496,
+              "primary": "PT2M45.557S",
+              "primary_t": 165.557,
+              "realtime": "PT2M45.557S",
+              "realtime_t": 165.557,
               "realtime_noloads": null,
               "realtime_noloads_t": 0,
               "ingame": null,
